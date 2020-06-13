@@ -1,0 +1,2 @@
+rootProject.name='IndianDice'
+include ':app'
